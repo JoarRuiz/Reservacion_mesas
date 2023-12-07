@@ -1,0 +1,9 @@
+
+body{
+    height: 100%;
+    background-repeat: no-repeat;
+    background-image: url(../img/Piso.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: big;
+}
